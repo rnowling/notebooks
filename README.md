@@ -24,3 +24,7 @@ Ideas for Future Notebooks
 * Differential Equations
 * Stochastic Differential Equations
 * Eigenvalues, eigenvectors
+* Automatic feature extraction for unstructured data
+    * Tokenization followed by probabilistic context-free grammars and optimization problem for extracting tree patterns
+    * HMMs
+    * Tokenize, extract token chunks, cluster 
