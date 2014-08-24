@@ -16,6 +16,7 @@ Ideas for Future Notebooks
 
 * Practical explorations of NB using scikit-learn
 * Docker with supervisord
+* Schedulers for Mesos
 * Applications of MSMs and HMMs - proteins, sequences
 * Markov Models
 * Hidden Markov Models
