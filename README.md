@@ -10,6 +10,7 @@ Current Notebooks
 * Poisson Processes
 * Sampling Methods
 * Detecting Copied Text with Bags of Words and Naive Bayes Classifiers
+* Introduction to FFTs
 
 Ideas for Future Notebooks
 --------------------------
