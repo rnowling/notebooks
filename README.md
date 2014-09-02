@@ -16,11 +16,12 @@ Ideas for Future Notebooks
 --------------------------
 
 * Practical explorations of NB using scikit-learn
-* Docker with supervisord
-* Schedulers for Mesos
-* Applications of MSMs and HMMs - proteins, sequences
-* Markov Models
-* Hidden Markov Models
+* Ranking articles by relevancy using TextMine and Naive Bayes
+* Markov Models and Hidden Markov Models
+    *  MSMs and Differential Equations
+    *  HMM architectures
+    *  Applying HMMs to DSP
+    *  Applications of MSMs and HMMs - proteins, sequences
 * Clustering - KMeans, Hierarchical, MiniBatch
 * Collaborative Filtering
 * Differential Equations
